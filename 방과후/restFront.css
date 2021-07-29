@@ -1,0 +1,6 @@
+a { color: rgb(172, 30, 49); text-decoration: none; }
+img { 
+    display: flex;
+    height: 500px;
+    width: 50%;
+}
